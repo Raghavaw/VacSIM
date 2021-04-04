@@ -1,0 +1,1 @@
+All the necessary details and formula for the code and files is explained in document accompanying this folder.

@@ -1,0 +1,5 @@
+"from","to"
+"Susceptible","Vaccine_Percentage"
+"Infected_People","Vaccine_Percentage"
+"Recovery","Vaccine_Percentage"
+"Death","Vaccine_Percentage"
